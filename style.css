@@ -1,0 +1,20 @@
+body {
+  background: rgb(0, 212, 255);
+  background: linear-gradient(
+    90deg,
+    rgba(0, 212, 255, 1) 0%,
+    rgba(8, 165, 230, 1) 26%,
+    rgba(16, 120, 205, 1) 51%,
+    rgba(25, 70, 178, 1) 79%,
+    rgba(32, 32, 157, 1) 100%
+  );
+  padding-top: 150px;
+}
+
+.container {
+  width: 305px;
+}
+
+.btn {
+  width: 150px;
+}
